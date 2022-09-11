@@ -1,0 +1,31 @@
+{"games": [
+    {
+        "esrbRating": "M",
+        "price": 89.99,
+        "genres": {"genres": [
+            "RPG",
+            "Action",
+            "Adventure",
+            "Horror",
+            "Puzzle"
+        ]},
+        "publisher": "A",
+        "gameTitle": "Game2",
+        "developer": "A",
+        "releasedYear": 2021,
+        "platform": "PS5"
+    },
+    {
+        "esrbRating": "M",
+        "price": 99.99,
+        "genres": {"genres": [
+            "Action",
+            "Adventure"
+        ]},
+        "publisher": "B",
+        "gameTitle": "Game",
+        "developer": "R",
+        "releasedYear": 2019,
+        "platform": "Xbox Series X"
+    }
+]}

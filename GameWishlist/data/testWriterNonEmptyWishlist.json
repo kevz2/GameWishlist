@@ -1,0 +1,88 @@
+{"games": [
+    {
+        "esrbRating": "E10+",
+        "price": 50,
+        "genres": {"genres": ["RPG"]},
+        "publisher": "Publisher",
+        "gameTitle": "Game1",
+        "developer": "Developer",
+        "releasedYear": 2000,
+        "platform": "PS4"
+    },
+    {
+        "esrbRating": "M",
+        "price": 79.99,
+        "genres": {"genres": [
+            "Action",
+            "RPG",
+            "Stealth"
+        ]},
+        "publisher": "Publisher",
+        "gameTitle": "Game2",
+        "developer": "Developer",
+        "releasedYear": 2021,
+        "platform": "Xbox Series X|S"
+    },
+    {
+        "esrbRating": "E10+",
+        "price": 89.99,
+        "genres": {"genres": [
+            "RPG",
+            "Action",
+            "Horror",
+            "Stealth",
+            "Puzzle"
+        ]},
+        "publisher": "Publisher",
+        "gameTitle": "Game3",
+        "developer": "Developer",
+        "releasedYear": 2019,
+        "platform": "PS5"
+    },
+    {
+        "esrbRating": "M",
+        "price": 90,
+        "genres": {"genres": [
+            "RPG",
+            "Action",
+            "Horror",
+            "Stealth",
+            "Puzzle"
+        ]},
+        "publisher": "Publisher",
+        "gameTitle": "Game4",
+        "developer": "Developer",
+        "releasedYear": 2021,
+        "platform": "Xbox Series X|S"
+    },
+    {
+        "esrbRating": "M",
+        "price": 90,
+        "genres": {"genres": [
+            "RPG",
+            "Action",
+            "Horror",
+            "Stealth",
+            "Puzzle"
+        ]},
+        "publisher": "Publisher",
+        "gameTitle": "Game4",
+        "developer": "Developer",
+        "releasedYear": 2021,
+        "platform": "PS5"
+    },
+    {
+        "esrbRating": "T",
+        "price": 109.99,
+        "genres": {"genres": [
+            "Action",
+            "RPG",
+            "Stealth"
+        ]},
+        "publisher": "Publisher",
+        "gameTitle": "Game5",
+        "developer": "Developer",
+        "releasedYear": 2021,
+        "platform": "PS5"
+    }
+]}
